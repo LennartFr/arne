@@ -1,6 +1,6 @@
 # Tools
 
-* Frontend
+## Frontend
 
 [React.js](https://reactjs.org/)
 
@@ -10,4 +10,4 @@
 
 [Redis](https://redis.io/)
 
-[Apache Kafka[(https://kafka.apache.org/)
+[Apache Kafka](https://kafka.apache.org/)
