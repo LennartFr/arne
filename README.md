@@ -19,3 +19,5 @@ A really good article on how one writes applications with APIs today. The dev.to
 [Redis](https://redis.io/)
 
 [Apache Kafka](https://kafka.apache.org/)
+
+[Couchdb](https://buildmedia.readthedocs.org/media/pdf/couchdb/latest/couchdb.pdf)
