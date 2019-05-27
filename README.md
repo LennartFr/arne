@@ -1,5 +1,7 @@
 # apps
 
+A really good article on how one writes applications with APIs today. The dev.to blogging tool is also very good, and free.
+
 https://dev.to/chipd/my-girlfriend-likes-to-travel-i-like-to-know-how-much-it-s-gonna-cost-vue-node-and-some-apis-later-i-give-you-tripcoster-com-1cja
 
 ## Frontend
