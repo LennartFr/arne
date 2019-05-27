@@ -10,6 +10,9 @@ https://dev.to/chipd/my-girlfriend-likes-to-travel-i-like-to-know-how-much-it-s-
 
 ## Backend
 
+
+[Node.js Notes for Professionals book](NodeJSNotesForProfessionals.pdf)
+
 [Top 20 Node.JS books that you should read in 2018](https://medium.com/@LaSoft/top-20-node-js-books-that-you-should-read-in-2018-2329d1dd64bc)
 
 [Redis](https://redis.io/)
